@@ -1,4 +1,4 @@
-<div class="w-screen min-h-screen bg-amber-100 p-32">
+<div class="w-screen min-h-screen bg-amber-100 sm:p-4 lg:p-32">
     <h1 class="text-3xl mb-6 font-bold text-amber-900">
         De Kempen zijn geen provincie.
     </h1>
@@ -14,7 +14,7 @@
     <h2 class="text-xl mb-3 font-bold text-amber-900">
         Gemeenten die tot de Kempen behoren en bijgevolg minderwaardig zijn:
     </h2>
-    <ul class="list-disc columns-4">
+    <ul class="list-disc sm:columns-1 lg:colums-4">
         <li>Aalst</li>
         <li>Arendonk</li>
         <li>Baarle-Hertog</li>
